@@ -1055,5 +1055,6 @@
     <copyfile src="lk_inc.mk" dest="lk_inc.mk"/>
   </project>
   <project path="vendor/adevtool" name="adevtool" remote="grapheneos"/>
+  <project path="vendor/guardtalk" name="vendor_guardtalk" remote="grapheneos"/>
   <project path="vendor/state" name="vendor_state" remote="grapheneos" clone-depth="1"/>
 </manifest>
